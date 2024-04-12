@@ -1,3 +1,5 @@
+![Texto alternativo](cover.jpg)
+
 **Título del Proyecto:**
 Preparación de Datos para Modelado Predictivo en BMW
 
