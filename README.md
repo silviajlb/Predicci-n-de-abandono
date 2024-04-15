@@ -1,7 +1,7 @@
 ![Texto alternativo](cover.jpg)
 
 **Título del Proyecto:**
-Preparación de Datos para Modelado Predictivo en BMW
+Modelo ML para predecir la probabilidad de abandono
 
 **Breve Descripción:**
 En este proyecto el preprocessamiento de los datos fue fundamental ya que teníamos más de 100 columnas.
